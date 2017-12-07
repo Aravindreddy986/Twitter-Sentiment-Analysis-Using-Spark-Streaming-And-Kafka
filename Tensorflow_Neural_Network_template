@@ -71,6 +71,8 @@ def train_neural_network(x):
 
 train_neural_network(x)
 
+## for animation = http://adventuresinmachinelearning.com/python-tensorflow-tutorial/
+
 ######## anaother version of the same code
 ## First we define the placeholder variable for the input images.
 ## This allows us to change the images that are input to the TensorFlow graph. 
